@@ -1,0 +1,6 @@
+# MacOS Finder
+.DS_Store
+
+# JUCE auto-generated directories
+*/JuceLibraryCode/
+*/Builds/
